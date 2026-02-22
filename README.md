@@ -4,7 +4,7 @@ Dr. Anirban Mukherjee ([anirban@avyayamholdings.com](mailto:anirban@avyayamholdi
 
 **Principal, Avyayam Holdings**
 
-Email: <am253@cornell.edu>; <anirban@avyayamholdings.com>
+Email: <anirban@avyayamholdings.com>
 
 GitHub: <https://github.com/anirban-mu>
 
