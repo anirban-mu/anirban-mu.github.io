@@ -1,11 +1,11 @@
 # Site settings
-title: Dr. Anirban Mukherjee 
+title: Dr. Anirban Mukherjee
 author:
   name: Anirban Mukherjee
-  email: am253@cornell.edu
-description: "Homepage of Anirban Mukherjee."
+  email: anirban@avyayamholdings.com
+description: "Principal at Avyayam Holdings. AI and Quantitative Marketing Strategies. Ph.D., Cornell University."
 
-avatar: "anirban_mukherjee.jpg" 
+avatar: "anirban_mukherjee.jpg"
 
 # Build settings
 remote_theme: jekyll-theme-minimal
