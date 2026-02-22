@@ -1,3 +1,5 @@
+![Photograph of Anirban Mukherjee](anirban_mukherjee.jpg?raw=true "Anirban Mukherjee")
+
 Dr. Anirban Mukherjee ([anirban@avyayamholdings.com](mailto:anirban@avyayamholdings.com)) is Principal at Avyayam Holdings, where he focuses on AI and quantitative marketing strategies. He holds a Ph.D. from Cornell University and was previously Assistant Professor at Singapore Management University, with visiting roles at Cornell University, INSEAD, and Columbia University. His research on consumer behavior, quantitative marketing, and the business impact of AI has appeared in leading journals including the *International Journal of Research in Marketing*, *Journal of Marketing*, *Journal of Marketing Research*, *Journal of Retailing*, *Management Science*, *SMU Science and Technology Law Review*, and *Washington Journal of Law, Technology & Arts*.
 
 ---
